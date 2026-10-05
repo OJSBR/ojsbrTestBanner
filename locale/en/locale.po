@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: en\n"
+
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Test environment banner"
+
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Shows a fixed red band on every page of the site, the journals and the editorial back end, marking the installation as a test environment. Set up by the site administrator."
+
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Test environment — data on this installation is not official"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "The band is shown at the bottom of every page of this installation, except the full-page galley viewers (PDF, EPUB, HTML). Write the message in each language your readers use; a reader whose language has no message sees the one of the site's primary language."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Message"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Plain text, up to 200 characters. Leave every language empty to use the default message."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "The message must have at most 200 characters."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Default message:"

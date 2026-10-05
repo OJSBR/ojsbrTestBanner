@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hu\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Tesztkörnyezet sáv"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Rögzített piros sávot jelenít meg a portál, a folyóiratok és a szerkesztőségi felület minden oldalán, amely tesztkörnyezetként jelöli a telepítést. A webhely adminisztrátora állítja be."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Tesztkörnyezet — a telepítés adatai nem hivatalosak"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "A sáv a telepítés minden oldalának alján megjelenik, kivéve a teljes oldalas levonatmegjelenítőket (PDF, EPUB, HTML). Írja meg az üzenetet minden nyelven, amelyet az olvasók használnak; aki üzenet nélküli nyelven olvas, a webhely elsődleges nyelvének üzenetét látja."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Üzenet"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Egyszerű szöveg, legfeljebb 200 karakter. Hagyja üresen az összes nyelvet az alapértelmezett üzenet használatához."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Az üzenet legfeljebb 200 karakter lehet."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Alapértelmezett üzenet:"

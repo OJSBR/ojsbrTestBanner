@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: cs\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Pruh testovacího prostředí"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Zobrazuje pevný červený pruh na všech stránkách portálu, časopisů i redakční části, který označuje instalaci jako testovací prostředí. Nastavuje ho administrátor webu."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Testovací prostředí — data této instalace nejsou oficiální"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Pruh se zobrazuje dole na všech stránkách této instalace, kromě celostránkových prohlížečů sazeb (PDF, EPUB, HTML). Napište zprávu v každém jazyce, který čtenáři používají; kdo čte v jazyce bez zprávy, uvidí zprávu v hlavním jazyce webu."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Zpráva"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Prostý text, nejvýše 200 znaků. Ponechte všechny jazyky prázdné, chcete-li použít výchozí zprávu."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Zpráva může mít nejvýše 200 znaků."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Výchozí zpráva:"

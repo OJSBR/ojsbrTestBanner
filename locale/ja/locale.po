@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ja\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "テスト環境バナー"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "ポータル、ジャーナル、編集画面のすべてのページに固定の赤い帯を表示し、このインストールがテスト環境であることを示します。サイト管理者が設定します。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "テスト環境 — このインストールのデータは公式のものではありません"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "帯はこのインストールのすべてのページの下部に表示されます。ただし、全画面のガレービューア（PDF、EPUB、HTML）には表示されません。読者が使う各言語でメッセージを入力してください。メッセージのない言語で閲覧する読者には、サイトの主言語のメッセージが表示されます。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "メッセージ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "プレーンテキストで 200 文字まで。既定のメッセージを使う場合は、すべての言語を空欄にしてください。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "メッセージは 200 文字以内にしてください。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "既定のメッセージ:"

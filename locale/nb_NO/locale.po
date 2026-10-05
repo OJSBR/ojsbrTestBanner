@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nb_NO\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Banner for testmiljø"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Viser et fast rødt felt på alle sider i portalen, tidsskriftene og redaksjonsdelen, som markerer installasjonen som et testmiljø. Settes opp av nettstedets administrator."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Testmiljø — dataene i denne installasjonen er ikke offisielle"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Feltet vises nederst på alle sider i denne installasjonen, unntatt i visningsprogrammer for sats i full side (PDF, EPUB, HTML). Skriv meldingen på hvert språk leserne dine bruker; den som leser på et språk uten melding, ser meldingen på nettstedets hovedspråk."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Melding"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Ren tekst, opptil 200 tegn. La alle språk stå tomme for å bruke standardmeldingen."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Meldingen kan ha maksimalt 200 tegn."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Standardmelding:"

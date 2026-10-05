@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: de\n"
+
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Banner für Testumgebung"
+
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Zeigt auf allen Seiten des Portals, der Zeitschriften und des redaktionellen Bereichs ein festes rotes Band, das die Installation als Testumgebung kennzeichnet. Wird von der Site-Administration eingerichtet."
+
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Testumgebung — die Daten dieser Installation sind nicht offiziell"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Das Band erscheint am unteren Rand jeder Seite dieser Installation, außer in den ganzseitigen Fahnen-Viewern (PDF, EPUB, HTML). Schreiben Sie die Nachricht in jeder Sprache Ihrer Leserinnen und Leser; wer in einer Sprache ohne Nachricht liest, sieht die der Hauptsprache der Site."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Nachricht"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Reiner Text, bis zu 200 Zeichen. Lassen Sie alle Sprachen leer, um die Standardnachricht zu verwenden."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Die Nachricht darf höchstens 200 Zeichen lang sein."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Standardnachricht:"

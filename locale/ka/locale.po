@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ka\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "სატესტო გარემოს ზოლი"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "პორტალის, ჟურნალებისა და სარედაქციო ნაწილის ყველა გვერდზე აჩვენებს ფიქსირებულ წითელ ზოლს, რომელიც ინსტალაციას სატესტო გარემოდ აღნიშნავს. მას საიტის ადმინისტრატორი აწყობს."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "სატესტო გარემო — ამ ინსტალაციის მონაცემები ოფიციალური არ არის"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "ზოლი ჩანს ამ ინსტალაციის ყველა გვერდის ქვედა ნაწილში, გარდა სრულგვერდიანი ფაილის მნახველებისა (PDF, EPUB, HTML). დაწერეთ შეტყობინება მკითხველების მიერ გამოყენებულ თითოეულ ენაზე; ვინც შეტყობინების გარეშე ენაზე კითხულობს, ხედავს საიტის მთავარი ენის შეტყობინებას."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "შეტყობინება"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "უბრალო ტექსტი, 200 სიმბოლომდე. ნაგულისხმევი შეტყობინების გამოსაყენებლად ყველა ენა ცარიელი დატოვეთ."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "შეტყობინება უნდა იყოს არაუმეტეს 200 სიმბოლოსი."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "ნაგულისხმევი შეტყობინება:"

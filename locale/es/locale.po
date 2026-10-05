@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: es\n"
+
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Banda de entorno de pruebas"
+
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Muestra una banda roja fija en todas las páginas del portal, de las revistas y del área editorial, que indica que la instalación es un entorno de pruebas. La configura el administrador del sitio."
+
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Entorno de pruebas — los datos de esta instalación no son oficiales"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "La banda aparece al pie de todas las páginas de esta instalación, excepto en los visores de galeradas a página completa (PDF, EPUB, HTML). Escriba el mensaje en cada idioma que usan los lectores; quien lee en un idioma sin mensaje ve el del idioma principal del sitio."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Mensaje"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Texto sin formato, hasta 200 caracteres. Deje todos los idiomas vacíos para usar el mensaje predeterminado."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "El mensaje debe tener como máximo 200 caracteres."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Mensaje predeterminado:"

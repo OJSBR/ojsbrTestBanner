@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: bg\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Лента за тестова среда"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Показва фиксирана червена лента на всички страници на портала, списанията и редакционната част, която отбелязва инсталацията като тестова среда. Настройва се от администратора на сайта."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Тестова среда — данните в тази инсталация не са официални"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Лентата се показва в долната част на всички страници на тази инсталация, освен в преглеждащите програми на цяла страница (PDF, EPUB, HTML). Напишете съобщението на всеки език, който използват читателите; който чете на език без съобщение, вижда това на основния език на сайта."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Съобщение"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Обикновен текст, до 200 знака. Оставете всички езици празни, за да се използва съобщението по подразбиране."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Съобщението трябва да е най-много 200 знака."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Съобщение по подразбиране:"

@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: sv\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Banner för testmiljö"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Visar ett fast rött fält på alla sidor i portalen, tidskrifterna och redaktionsdelen, som markerar installationen som en testmiljö. Ställs in av webbplatsens administratör."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Testmiljö — uppgifterna i den här installationen är inte officiella"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Fältet visas längst ned på alla sidor i den här installationen, utom i helsidesvisare för sättning (PDF, EPUB, HTML). Skriv meddelandet på varje språk som dina läsare använder; den som läser på ett språk utan meddelande ser meddelandet på webbplatsens huvudspråk."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Meddelande"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Ren text, högst 200 tecken. Lämna alla språk tomma för att använda standardmeddelandet."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Meddelandet får ha högst 200 tecken."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Standardmeddelande:"

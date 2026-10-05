@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: tr\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Test ortamı şeridi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Portalın, dergilerin ve editoryal bölümün tüm sayfalarında kurulumun bir test ortamı olduğunu belirten sabit kırmızı bir şerit gösterir. Site yöneticisi tarafından ayarlanır."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Test ortamı — bu kurulumdaki veriler resmî değildir"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Şerit, tam sayfa dosya görüntüleyiciler (PDF, EPUB, HTML) dışında bu kurulumun tüm sayfalarının altında görünür. İletiyi okurlarınızın kullandığı her dilde yazın; iletisi olmayan bir dilde okuyan, sitenin ana dilindeki iletiyi görür."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "İleti"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Düz metin, en fazla 200 karakter. Varsayılan iletiyi kullanmak için tüm dilleri boş bırakın."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "İleti en fazla 200 karakter olmalıdır."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Varsayılan ileti:"

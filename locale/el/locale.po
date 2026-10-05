@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: el\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Λωρίδα δοκιμαστικού περιβάλλοντος"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Εμφανίζει μια σταθερή κόκκινη λωρίδα σε όλες τις σελίδες της πύλης, των περιοδικών και του συντακτικού χώρου, που δηλώνει ότι η εγκατάσταση είναι δοκιμαστικό περιβάλλον. Ρυθμίζεται από τον διαχειριστή του ιστότοπου."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Δοκιμαστικό περιβάλλον — τα δεδομένα αυτής της εγκατάστασης δεν είναι επίσημα"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Η λωρίδα εμφανίζεται στο κάτω μέρος όλων των σελίδων αυτής της εγκατάστασης, εκτός από τα προγράμματα προβολής τυπογραφικών δοκιμίων σε πλήρη σελίδα (PDF, EPUB, HTML). Γράψτε το μήνυμα σε κάθε γλώσσα που χρησιμοποιούν οι αναγνώστες· όποιος διαβάζει σε γλώσσα χωρίς μήνυμα βλέπει εκείνο της κύριας γλώσσας του ιστότοπου."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Μήνυμα"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Απλό κείμενο, έως 200 χαρακτήρες. Αφήστε όλες τις γλώσσες κενές για να χρησιμοποιηθεί το προεπιλεγμένο μήνυμα."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Το μήνυμα πρέπει να έχει το πολύ 200 χαρακτήρες."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Προεπιλεγμένο μήνυμα:"

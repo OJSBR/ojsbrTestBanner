@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ar\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "شريط بيئة الاختبار"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "يعرض شريطًا أحمر ثابتًا في جميع صفحات البوابة والمجلات والواجهة التحريرية، يبيّن أن هذا التثبيت بيئة اختبار. يضبطه مدير الموقع."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "بيئة اختبار — بيانات هذا التثبيت ليست رسمية"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "يظهر الشريط أسفل كل صفحات هذا التثبيت، باستثناء عارضات الملفات بملء الصفحة (PDF وEPUB وHTML). اكتب الرسالة بكل لغة يستخدمها القراء؛ ومن يقرأ بلغة بلا رسالة يرى رسالة اللغة الرئيسية للموقع."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "الرسالة"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "نص عادي حتى 200 حرف. اترك جميع اللغات فارغة لاستخدام الرسالة الافتراضية."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "يجب ألا تتجاوز الرسالة 200 حرف."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "الرسالة الافتراضية:"

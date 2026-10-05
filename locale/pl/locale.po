@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: pl\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Pasek środowiska testowego"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Wyświetla stały czerwony pasek na wszystkich stronach portalu, czasopism i części redakcyjnej, oznaczający instalację jako środowisko testowe. Konfiguruje go administrator witryny."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Środowisko testowe — dane tej instalacji nie są oficjalne"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Pasek pojawia się u dołu każdej strony tej instalacji, z wyjątkiem pełnoekranowych przeglądarek plików (PDF, EPUB, HTML). Wpisz komunikat w każdym języku używanym przez czytelników; kto czyta w języku bez komunikatu, widzi komunikat w głównym języku witryny."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Komunikat"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Zwykły tekst, do 200 znaków. Pozostaw wszystkie języki puste, aby użyć komunikatu domyślnego."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Komunikat może mieć najwyżej 200 znaków."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Komunikat domyślny:"

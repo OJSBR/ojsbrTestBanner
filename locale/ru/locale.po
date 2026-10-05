@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ru\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Полоса тестовой среды"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Показывает закреплённую красную полосу на всех страницах портала, журналов и редакционного раздела, отмечая установку как тестовую среду. Настраивается администратором сайта."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Тестовая среда — данные этой установки не являются официальными"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Полоса показывается внизу каждой страницы этой установки, кроме полноэкранных просмотрщиков гранок (PDF, EPUB, HTML). Напишите сообщение на каждом языке, которым пользуются читатели; читатель на языке без сообщения видит сообщение на основном языке сайта."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Сообщение"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Простой текст, до 200 символов. Оставьте все языки пустыми, чтобы использовать сообщение по умолчанию."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Сообщение должно содержать не более 200 символов."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Сообщение по умолчанию:"

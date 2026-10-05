@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: eu\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Proba-inguruneko banda"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Banda gorri finko bat erakusten du atariaren, aldizkarien eta editoreen arearen orri guztietan, instalazioa proba-ingurunea dela adierazteko. Guneko administratzaileak konfiguratzen du."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Proba-ingurunea — instalazio honetako datuak ez dira ofizialak"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Banda instalazio honetako orri guztien behealdean agertzen da, orri osoko galerada-ikustaileetan izan ezik (PDF, EPUB, HTML). Idatzi mezua irakurleek erabiltzen duten hizkuntza bakoitzean; mezurik gabeko hizkuntzan irakurtzen duenak gunearen hizkuntza nagusiko mezua ikusten du."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Mezua"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Testu arrunta, gehienez 200 karaktere. Utzi hizkuntza guztiak hutsik mezu lehenetsia erabiltzeko."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Mezuak gehienez 200 karaktere izan behar ditu."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Mezu lehenetsia:"

@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: mk\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Лента за тестна околина"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Прикажува фиксна црвена лента на сите страници на порталот, списанијата и уредувачкиот дел, која ја означува инсталацијата како тестна околина. Ја поставува администраторот на сајтот."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Тестна околина — податоците во оваа инсталација не се официјални"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Лентата се прикажува на дното на сите страници на оваа инсталација, освен во прегледувачите на цела страница (PDF, EPUB, HTML). Напишете ја пораката на секој јазик што го користат читателите; кој чита на јазик без порака ја гледа онаа на главниот јазик на сајтот."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Порака"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Обичен текст, до 200 знаци. Оставете ги сите јазици празни за да се користи стандардната порака."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Пораката смее да има најмногу 200 знаци."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Стандардна порака:"

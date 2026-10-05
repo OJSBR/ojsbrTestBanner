@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: pt_BR\n"
+
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Tarja de ambiente de testes"
+
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Exibe uma tarja vermelha fixa em todas as páginas do portal, das revistas e da área administrativa, marcando a instalação como ambiente de testes. Configurada pelo administrador do site."
+
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Ambiente de testes — os dados desta instalação não são oficiais"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "A tarja aparece no rodapé de todas as páginas desta instalação, exceto nos leitores de composição em página inteira (PDF, EPUB, HTML). Escreva a mensagem em cada idioma usado pelos leitores; quem lê num idioma sem mensagem vê a do idioma principal do site."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Mensagem"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Texto simples, até 200 caracteres. Deixe todos os idiomas em branco para usar a mensagem padrão."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "A mensagem deve ter no máximo 200 caracteres."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Mensagem padrão:"

@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: id\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Pita lingkungan uji coba"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Menampilkan pita merah tetap di setiap halaman portal, jurnal, dan area redaksi, yang menandai instalasi ini sebagai lingkungan uji coba. Diatur oleh administrator situs."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Lingkungan uji coba — data pada instalasi ini tidak resmi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Pita ditampilkan di bagian bawah setiap halaman instalasi ini, kecuali pada penampil galai satu halaman penuh (PDF, EPUB, HTML). Tulis pesan dalam setiap bahasa yang digunakan pembaca; pembaca dengan bahasa tanpa pesan melihat pesan dalam bahasa utama situs."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Pesan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Teks biasa, hingga 200 karakter. Kosongkan semua bahasa untuk memakai pesan bawaan."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Pesan paling banyak 200 karakter."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Pesan bawaan:"

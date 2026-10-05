@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nl\n"
+
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Banner voor testomgeving"
+
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Toont een vaste rode balk op elke pagina van het portaal, de tijdschriften en de redactieomgeving, die de installatie als testomgeving markeert. Ingesteld door de sitebeheerder."
+
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Testomgeving — de gegevens van deze installatie zijn niet officieel"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "De balk staat onderaan elke pagina van deze installatie, behalve in de paginavullende drukproefviewers (PDF, EPUB, HTML). Schrijf het bericht in elke taal die uw lezers gebruiken; wie leest in een taal zonder bericht, ziet dat van de hoofdtaal van de site."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Bericht"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Platte tekst, maximaal 200 tekens. Laat alle talen leeg om het standaardbericht te gebruiken."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Het bericht mag maximaal 200 tekens bevatten."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Standaardbericht:"

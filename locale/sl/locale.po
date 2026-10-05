@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: sl\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Pas testnega okolja"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Na vseh straneh portala, revij in uredniškega dela prikaže pritrjen rdeč pas, ki namestitev označi kot testno okolje. Nastavi ga skrbnik spletnega mesta."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Testno okolje — podatki te namestitve niso uradni"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Pas se prikaže na dnu vseh strani te namestitve, razen v celostranskih pregledovalnikih datotek (PDF, EPUB, HTML). Sporočilo napišite v vsakem jeziku, ki ga uporabljajo bralci; kdor bere v jeziku brez sporočila, vidi sporočilo v glavnem jeziku spletnega mesta."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Sporočilo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Navadno besedilo, do 200 znakov. Pustite vse jezike prazne, da se uporabi privzeto sporočilo."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Sporočilo ima lahko največ 200 znakov."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Privzeto sporočilo:"

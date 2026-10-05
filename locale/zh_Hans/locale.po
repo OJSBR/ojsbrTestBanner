@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: zh_Hans\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "测试环境横幅"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "在门户、期刊和编辑后台的每个页面上显示固定的红色横条，标明本安装为测试环境。由站点管理员设置。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "测试环境 — 本安装中的数据并非正式数据"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "横条显示在本安装每个页面的底部，全页的稿件查看器（PDF、EPUB、HTML）除外。请用读者使用的每种语言填写提示信息；以没有提示信息的语言阅读的读者，会看到站点主语言的提示信息。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "提示信息"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "纯文本，最多 200 个字符。所有语言都留空则使用默认提示信息。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "提示信息最多 200 个字符。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "默认提示信息："

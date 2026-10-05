@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ca\n"
+
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Banda d'entorn de proves"
+
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Mostra una banda vermella fixa a totes les pàgines del portal, de les revistes i de l'àrea editorial, que indica que la instal·lació és un entorn de proves. La configura l'administrador del lloc."
+
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Entorn de proves — les dades d'aquesta instal·lació no són oficials"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "La banda apareix al peu de totes les pàgines d'aquesta instal·lació, excepte als visors de galerades a pàgina completa (PDF, EPUB, HTML). Escriviu el missatge en cada idioma que fan servir els lectors; qui llegeix en un idioma sense missatge veu el de l'idioma principal del lloc."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Missatge"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Text sense format, fins a 200 caràcters. Deixeu tots els idiomes buits per fer servir el missatge per defecte."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "El missatge ha de tenir com a màxim 200 caràcters."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Missatge per defecte:"

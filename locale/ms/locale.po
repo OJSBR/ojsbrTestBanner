@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ms\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Jalur persekitaran ujian"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Memaparkan jalur merah tetap pada setiap halaman portal, jurnal dan bahagian editorial, yang menandakan pemasangan ini sebagai persekitaran ujian. Ditetapkan oleh pentadbir laman."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Persekitaran ujian — data pada pemasangan ini tidak rasmi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Jalur dipaparkan di bahagian bawah setiap halaman pemasangan ini, kecuali pada pemapar galei satu halaman penuh (PDF, EPUB, HTML). Tulis mesej dalam setiap bahasa yang digunakan pembaca; pembaca dalam bahasa tanpa mesej melihat mesej bahasa utama laman."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Mesej"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Teks biasa, sehingga 200 aksara. Biarkan semua bahasa kosong untuk menggunakan mesej lalai."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Mesej mestilah tidak melebihi 200 aksara."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Mesej lalai:"

@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ro\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Bandă pentru mediu de test"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Afișează o bandă roșie fixă pe toate paginile portalului, ale revistelor și ale zonei editoriale, care marchează instalarea ca mediu de test. Este configurată de administratorul site-ului."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Mediu de test — datele acestei instalări nu sunt oficiale"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Banda apare în partea de jos a tuturor paginilor acestei instalări, cu excepția vizualizatoarelor de fișiere pe pagină întreagă (PDF, EPUB, HTML). Scrieți mesajul în fiecare limbă folosită de cititori; cine citește într-o limbă fără mesaj vede mesajul limbii principale a site-ului."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Mesaj"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Text simplu, cel mult 200 de caractere. Lăsați toate limbile goale pentru a folosi mesajul implicit."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Mesajul trebuie să aibă cel mult 200 de caractere."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Mesaj implicit:"

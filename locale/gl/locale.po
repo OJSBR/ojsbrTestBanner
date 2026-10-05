@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: gl\n"
+
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Banda de contorno de probas"
+
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Mostra unha banda vermella fixa en todas as páxinas do portal, das revistas e da área editorial, que indica que a instalación é un contorno de probas. Configúraa o administrador do sitio."
+
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Contorno de probas — os datos desta instalación non son oficiais"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "A banda aparece ao pé de todas as páxinas desta instalación, agás nos visores de galeradas a páxina completa (PDF, EPUB, HTML). Escriba a mensaxe en cada idioma que usan os lectores; quen le nun idioma sen mensaxe ve a do idioma principal do sitio."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Mensaxe"
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Texto sen formato, ata 200 caracteres. Deixe todos os idiomas baleiros para usar a mensaxe predeterminada."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "A mensaxe debe ter como máximo 200 caracteres."
+
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Mensaxe predeterminada:"

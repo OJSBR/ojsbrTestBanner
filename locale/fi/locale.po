@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fi\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Testiympäristön palkki"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Näyttää kiinteän punaisen palkin portaalin, julkaisujen ja toimitustyön kaikilla sivuilla merkiksi siitä, että asennus on testiympäristö. Sivuston ylläpitäjä määrittää sen."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Testiympäristö — tämän asennuksen tiedot eivät ole virallisia"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Palkki näkyy tämän asennuksen jokaisen sivun alareunassa, paitsi koko sivun täyttävissä julkaisutiedostojen katseluohjelmissa (PDF, EPUB, HTML). Kirjoita viesti jokaisella kielellä, jota lukijasi käyttävät; kielellä, jolla ei ole viestiä, lukija näkee sivuston pääkielen viestin."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Viesti"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Pelkkää tekstiä, enintään 200 merkkiä. Jätä kaikki kielet tyhjiksi, niin käytetään oletusviestiä."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Viestissä saa olla enintään 200 merkkiä."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Oletusviesti:"

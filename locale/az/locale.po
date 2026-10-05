@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: az\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.displayName"
+msgstr "Test mühiti zolağı"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.description"
+msgstr "Portalın, jurnalların və redaksiya bölməsinin bütün səhifələrində quraşdırmanın test mühiti olduğunu göstərən sabit qırmızı zolaq göstərir. Saytın administratoru tərəfindən qurulur."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.message"
+msgstr "Test mühiti — bu quraşdırmadakı məlumatlar rəsmi deyil"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.intro"
+msgstr "Zolaq bu quraşdırmanın bütün səhifələrinin aşağısında görünür, tam səhifəlik fayl baxış vasitələri (PDF, EPUB, HTML) istisna olmaqla. Mesajı oxucuların istifadə etdiyi hər dildə yazın; mesajı olmayan dildə oxuyan saytın əsas dilindəki mesajı görür."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message"
+msgstr "Mesaj"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.description"
+msgstr "Sadə mətn, 200 simvola qədər. Standart mesajdan istifadə etmək üçün bütün dilləri boş saxlayın."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.message.tooLong"
+msgstr "Mesaj ən çox 200 simvol ola bilər."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrTestBanner.settings.default"
+msgstr "Standart mesaj:"
