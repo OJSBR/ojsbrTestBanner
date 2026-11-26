@@ -1,10 +1,10 @@
 # Test Environment Banner — OJS plugin
 
 [![OJS](https://img.shields.io/badge/OJS-3.5-brightgreen)](https://pkp.sfu.ca/ojs/)
-[![Version](https://img.shields.io/badge/version-1.1.0.0-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-5.0.0.0-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/ojsbrTestBanner/releases/download/1.1.0.0/ojsbrTestBanner-1.1.0.0.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/ojsbrTestBanner/releases/download/5.0.0.0/ojsbrTestBanner-5.0.0.0.tar.gz) — or browse all [Releases](../../releases).
 
 A site-wide plugin for **Open Journal Systems (OJS)** that marks a test, staging or training
 installation with a **fixed red band at the bottom of every page** — the site, every journal and the
@@ -18,7 +18,7 @@ language of the site.
 
 | OJS version | Branch | Plugin release |
 |-------------|--------|----------------|
-| OJS 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.1.0.0 |
+| OJS 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 5.0.0.0 |
 
 38 languages.
 
@@ -149,7 +149,7 @@ produção. A mensagem é sua, em todos os idiomas do site.
 
 | Versão do OJS | Branch | Release do plugin |
 |---------------|--------|-------------------|
-| OJS 3.5.x     | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 1.1.0.0 |
+| OJS 3.5.x     | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 5.0.0.0 |
 
 38 idiomas.
 
